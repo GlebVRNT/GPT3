@@ -52,10 +52,9 @@
     color: #fff;
     background: #FF4820;
     font-family: var(--font-family);
+    font-weight: 500;
     font-size: 18px;
     line-height: 25px;
-    left: 1153px;
-    top: 55px;
     border-radius: 5px;
     border: none;
     outline: none;
@@ -117,12 +116,13 @@
 .gpt3__navbar-sign {
         display: none;
     }
-}
 
 .gpt3__navbar-menu_container {
-    top: 20px;
-}
+        top: 20px;
+    }
 
 .gpt3__navbar-menu_container-links-sign {
-    display: block;
+        display: block;
+
+    }
 }
